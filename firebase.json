@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "public": "public",
-    "target": "sspraneeth",
+    "public": "./",
+    "site": "praneethss",
     "ignore": [
       "firebase.json",
       "**/.*",
